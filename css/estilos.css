@@ -5,6 +5,7 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: #333;
 }
 
 #cabecera{
@@ -25,9 +26,11 @@ body{
 #container{
     width: 70%;
     padding: 1em;
+    background: #ddd;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+    margin-top: 10px;
 }
 
 #container h1{
