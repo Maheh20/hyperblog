@@ -5,3 +5,4 @@ Blog de prueba
 * Estoy creando cosas nuevas
 * Mi proceso de apendizaje
 * Aprender es divertido
+* Sigo practicando
